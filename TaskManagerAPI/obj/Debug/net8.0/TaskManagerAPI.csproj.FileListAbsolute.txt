@@ -1,0 +1,330 @@
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/appsettings.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.staticwebassets.endpoints.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.deps.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.runtimeconfig.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.pdb
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.AssemblyInfoInputs.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.AssemblyInfo.cs
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.csproj.CoreCompileInputs.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/scopedcss/bundle/TaskManagerAPI.styles.css
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/refint/TaskManagerAPI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.pdb
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.genruntimeconfig.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/ref/TaskManagerAPI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.ClientModel.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Text.Json.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.csproj.AssemblyReference.cache
+/Users/freddy/Documents/2 Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskMana.7A261BF7.Up2Date
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/appsettings.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.staticwebassets.endpoints.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.deps.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.runtimeconfig.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/TaskManagerAPI.pdb
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Azure.Core.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Azure.Identity.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Humanizer.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.ClientModel.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.CodeDom.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Text.Json.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.csproj.AssemblyReference.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.AssemblyInfoInputs.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.AssemblyInfo.cs
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.csproj.CoreCompileInputs.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/scopedcss/bundle/TaskManagerAPI.styles.css
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskMana.7A261BF7.Up2Date
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/refint/TaskManagerAPI.dll
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.pdb
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/TaskManagerAPI.genruntimeconfig.cache
+/Users/freddy/Documents/Areas/Study/TMApi/TaskManagerAPI/obj/Debug/net8.0/ref/TaskManagerAPI.dll
